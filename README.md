@@ -1,4 +1,4 @@
-# AA Project 3 - Most Frequent Leters
+# AA Project 3 - Most Frequent Letters
 
 ## Description
 
