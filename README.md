@@ -20,7 +20,9 @@ The project goal was to identify the most frequent letters in text files, more s
 ## Running the Scripts
 
 - Run `cd src` in root to enter the folder with the scripts.
-- ...
+- Run `process.py` to process the documents into a continuous stream of uppercase letters.
+- Run `benchmark.py` to benchmark the algorithms with the letter streams.
+- Run `comparison.py` to obtain a comparison of the benchmark results from the probabilistic and the space-sabing counters, in relation to the exact counter.
 
 ## Author
 
